@@ -1,27 +1,27 @@
-# PHP-TEMPLATE-HACK
+# HACKBUGZ PHP-TEMPLATE-HACK
 
-This is the smallest, simplest and fastest HTML/PHP template with a PHP EVAL HACK
+This is the smallest, simplest and fastest HTML/PHP template with a PHP-EVAL-HACK
 
-You can use php-code inside the replace-array in index.php
-or use php-code inside your html.html
-both options are possible and more....
+1. use php inside the array
+2. use php inside include files
+3. use dynamic php inside dynamic php
 
-################################################
-from z0om:
+all options are possible and more....
+
+#
+
+z0om:
 
 Keep the following quote in mind =_0
 
 If you asking the right question, eval() is the most powerful command in php
 
-With eval() you can call every function and every piece of code with the right syntax.
+With eval<?hack?> you can call every function and every piece of code with the right syntax.
+
 You can encrypt/decrypt and generate dynamic code.
 
-Generate dynamic code, that generates dynamic code, that generate dynamic code 
-it's not possible too debug, find errors, if you got errors or to read the code if you encrypt it.
-**************************************************************************************************
-from w.t.:
-break all walls
-open your mind
-interpret the data
-dynamic transcendence
-tier development
+#
+
+hackbugz:
+
+Never trust any data you recieve and check any data you recieve!
